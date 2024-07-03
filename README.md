@@ -1,6 +1,6 @@
 # Mangala0x
 Mangala0x
-.
+
 
 on:
   workflow_dispatch:
